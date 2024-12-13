@@ -11,7 +11,7 @@
     <h2>About Me</h2>
     <p>👋 Hi, I’m @FrogPossibility</p>
     <p>👀 I’m interested in Browser development and GANs</p>
-    <p>🌱 I’m currently learning javascript and python</p>
+    <p>🌱 I’m currently learning javascript, python, reverse engineering</p>
     <p>📫 How to reach me: dont reach me (:</p>
     <p>😄 Pronouns: he/him</p>
     <p>⚡ Fun fact: i'm 13 :D</p>
