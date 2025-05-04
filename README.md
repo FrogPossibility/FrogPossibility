@@ -14,7 +14,7 @@
     <p>🌱 I’m currently learning javascript, python, reverse engineering</p>
     <p>📫 How to reach me: dont reach me (:</p>
     <p>😄 Pronouns: he/him</p>
-    <p>⚡ Fun fact: i'm 13 :D</p>
+    <p>⚡ Fun fact: i'm 14 :D</p>
   </div>
 
 <h2>TO DO:</h2>
